@@ -1,0 +1,26 @@
+/* 
+*{
+    color: red;
+}
+h1{
+    color: blue;
+}
+.container{
+    color: violet;
+}
+#h3{
+    color: brown;
+}
+h3{
+    color: green;
+} */
+.Text{
+    font-family:"Roboto";
+    font-size: 20px;
+    font-weight: 600;
+    font-style:italic;
+    line-height: 40px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+}
