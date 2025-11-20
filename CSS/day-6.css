@@ -1,0 +1,17 @@
+h1{
+ color: rgb(241, 5, 241);
+}
+.container{
+ background-color: black;
+ height: 100px;
+ width: 100px;
+ padding: 50px;
+ border: 5px solid orange;
+ border-style: solid dotted;
+ border-width: 8px 5px;
+ margin:20px;
+ border-top-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+
+
+}
